@@ -1,0 +1,17 @@
+C:\Users\Asus\Desktop\labg\l\Lab3l\Lab3l\bin\Debug\net8.0\Lab3l.exe
+C:\Users\Asus\Desktop\labg\l\Lab3l\Lab3l\bin\Debug\net8.0\Lab3l.deps.json
+C:\Users\Asus\Desktop\labg\l\Lab3l\Lab3l\bin\Debug\net8.0\Lab3l.runtimeconfig.json
+C:\Users\Asus\Desktop\labg\l\Lab3l\Lab3l\bin\Debug\net8.0\Lab3l.dll
+C:\Users\Asus\Desktop\labg\l\Lab3l\Lab3l\bin\Debug\net8.0\Lab3l.pdb
+C:\Users\Asus\Desktop\labg\l\Lab3l\Lab3l\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\labg\l\Lab3l\Lab3l\obj\Debug\net8.0\Lab3l.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\labg\l\Lab3l\Lab3l\obj\Debug\net8.0\Lab3l.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\labg\l\Lab3l\Lab3l\obj\Debug\net8.0\Lab3l.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\labg\l\Lab3l\Lab3l\obj\Debug\net8.0\Lab3l.AssemblyInfo.cs
+C:\Users\Asus\Desktop\labg\l\Lab3l\Lab3l\obj\Debug\net8.0\Lab3l.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\labg\l\Lab3l\Lab3l\obj\Debug\net8.0\Lab3l.csproj.Up2Date
+C:\Users\Asus\Desktop\labg\l\Lab3l\Lab3l\obj\Debug\net8.0\Lab3l.dll
+C:\Users\Asus\Desktop\labg\l\Lab3l\Lab3l\obj\Debug\net8.0\refint\Lab3l.dll
+C:\Users\Asus\Desktop\labg\l\Lab3l\Lab3l\obj\Debug\net8.0\Lab3l.pdb
+C:\Users\Asus\Desktop\labg\l\Lab3l\Lab3l\obj\Debug\net8.0\Lab3l.genruntimeconfig.cache
+C:\Users\Asus\Desktop\labg\l\Lab3l\Lab3l\obj\Debug\net8.0\ref\Lab3l.dll

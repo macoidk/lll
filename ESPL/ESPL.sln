@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Espl_Core", "Espl_Core\Espl_Core.csproj", "{FBED9649-96AD-424D-A368-0A5A5E634EE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESPL", "ESPL\ESPL.csproj", "{74014981-D89A-481A-A51A-649457FEF042}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBED9649-96AD-424D-A368-0A5A5E634EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBED9649-96AD-424D-A368-0A5A5E634EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBED9649-96AD-424D-A368-0A5A5E634EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBED9649-96AD-424D-A368-0A5A5E634EE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74014981-D89A-481A-A51A-649457FEF042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74014981-D89A-481A-A51A-649457FEF042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74014981-D89A-481A-A51A-649457FEF042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74014981-D89A-481A-A51A-649457FEF042}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5F0F305-EC89-4C38-87C8-FA6CC36DC576}
+	EndGlobalSection
+EndGlobal
